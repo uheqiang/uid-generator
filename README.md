@@ -12,6 +12,8 @@ can offer over <font color=red>6 million</font> QPS per single instance.
 Requires：[Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)+,
 [MySQL](https://dev.mysql.com/downloads/mysql/)(Default implement as WorkerID assigner; If there are other implements, MySQL is not required)
 
+使用例子：https://www.jianshu.com/p/947bff7be2da
+
 Snowflake
 -------------
 ![Snowflake](doc/snowflake.png)  
